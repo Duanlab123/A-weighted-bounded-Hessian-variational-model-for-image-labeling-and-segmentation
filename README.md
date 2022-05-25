@@ -1,11 +1,11 @@
 # A-weighted-bounded-Hessian-variational-model-for-image-labeling-and-segmentation
 Please cite this paper if you use this code in your work. Thank you!  =============================================================
-@article{zhong2021image,   
-title={Image reconstruction by minimizing curvatures on image surface},   
-author={Zhong, Qiuxiang and Yin, Ke and Duan, Yuping},   
-journal={Journal of Mathematical Imaging and Vision},   
-volume={63}, 
-number={1},  
-pages={30--55},   
-year={2021},   
-publisher={Springer} }
+@article{yang2020weighted,
+  title={A weighted bounded Hessian variational model for image labeling and segmentation},
+  author={Yang, Yijie and Zhong, Qiuxiang and Duan, Yuping and Zeng, Tieyong},
+  journal={Signal Processing},
+  volume={173},
+  pages={107564},
+  year={2020},
+  publisher={Elsevier}
+}
